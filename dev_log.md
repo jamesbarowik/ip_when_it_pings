@@ -13,13 +13,10 @@ Deliverables:
 - SQL Export with data
 
 Development Log:
+- Copy and paste FR and NFR at the top of the document. Talk about it been at an easy location in the document
 Version Discussion: 
 - What will be done in each version and why
-Version 1: Database, some basic admin stuff, User Requirements and Functional Requirements and None Functional Requirements - Why?
-Version 2: Any remaining import functionality, User Requirements and Functional Requirements and None Functional Requirements - Why?
-Version 3: Any other non-essential functionality
-
-Development Diary: Show the examiner what you have, tell them how it went
-End of Version 1 Review: What did I plan to build, what did I actually build, why is there a difference, anything that has changed.
-Priorities for the next version: Have a discussion around what you will do and WHY?
-End of Version 3 Review: What gone good, what was bad, what's changed and why. Moving forward what I'd do differently, better, add or change and why
+- Version 1: Database, some basic admin stuff, User Requirements and Functional Requirements and None Functional Requirements - Why?
+- - Version 1 Diary: What are you going to make? what have you made, screenshots of small sections. Final Review of the Diary 
+- Version 2: Any remaining import functionality, User Requirements and Functional Requirements and None Functional Requirements - Why?
+- Version 3: Any other non-essential functionality and Styling add Activity Sheets or Information, Static Information based pages
