@@ -1,0 +1,16 @@
+Must export my full codebase to GitHub
+Two documents
+Slide 8 - Notes
+- Feedback Report
+	- Headings
+	- Talk about each feedback system, Non - Technical Staff, Technical Staff
+
+Review
+- Technical and Non Technical split
+- Make informed decisions based off the feedback that I have gained.
+- List of things I'd improve based off the feedback
+
+Table of contents
+
+Summary
+- These are the improvements I'm going to make based off the features
